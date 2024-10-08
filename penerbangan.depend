@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728392157 source:c:\users\lyche\music\flight\penerbangan\flight.cpp
+	<iostream>
+	"flight.h"
+
+1728384531 c:\users\lyche\music\flight\penerbangan\flight.h
+	<iostream>
+
+1728393646 source:c:\users\lyche\music\flight\penerbangan\main.cpp
+	"flight.h"
+
